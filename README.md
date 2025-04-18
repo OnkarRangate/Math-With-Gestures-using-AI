@@ -46,7 +46,7 @@ maths-with-gestures/
 ```
 ## 🧪 Setup & Installation
 1.Clone the repo:
-git clone https://github.com/yourusername/maths-with-gestures.git
+git clone https://github.com/OnkarRangate/maths-with-gestures.git
 cd maths-with-gestures
 
 2.Install dependencies:
