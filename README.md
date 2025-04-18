@@ -21,7 +21,7 @@ An AI-powered project that enables users to perform basic math operations using 
 - **OpenCV** – For video capture and image processing
 - **MediaPipe** or **TensorFlow** – For hand gesture detection
 - **NumPy / math libraries** – For calculations
-- **Tkinter / Streamlit / OpenCV GUI** – For the interface (update this based on what you're using)
+- **Streamlit** – For the interface
 
 ---
 
